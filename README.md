@@ -2,8 +2,7 @@
 
 ### I'm Aditya Mohan, a Full Stack Blockchain Developer!
 
-- 🔭 I’m currently working at [Somish](https://www.somish.com/), Delhi.
-- 🌱 I’m currently learning as much as I possibly can..😅
+- 🌱 I’m currently working on various blockchain project
 - 👯 I’m looking to collaborate on innovative ideas.
 
 
