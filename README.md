@@ -41,5 +41,5 @@
 
 <summary>GitHub Stats</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhaMohan&theme=dark&langs_count=8)](https://github.com/JhaMohan/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username={JhaMohan}
 
