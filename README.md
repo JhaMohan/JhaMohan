@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I'm Aditya Mohan, a Full Stack Blockchain Developer!<br>🌱 I’m currently working on various blockchain project<br>👯 I’m looking to collaborate on innovative ideas.
+Hi there 👋<br>I'm Aditya Mohan, a Full Stack Blockchain & Security Researcher !<br>🌱 I’m currently working on various blockchain project<br>👯 I’m looking to collaborate on innovative ideas.
 
 
 ## 🌐 Socials:
